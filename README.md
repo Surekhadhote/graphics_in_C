@@ -1,2 +1,2 @@
 # graphics_in_C
-Amazing motions in c
+Here is a super cool restaurant billing system !!
